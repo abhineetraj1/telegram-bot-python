@@ -47,7 +47,9 @@ ServeBot.commands("-704414602","/start","Hii, I am testbot")
 ServeBot.commands("-704414602","/about","This bot is made in Python3.8 by Abhineet Raj - @abhineetraj1")
 ServeBot.run()
 ```
-<img src="https://github.com/abhineetraj1/telegram-bot-python/blob/main/de.png?raw=true")
+
+
+<img src="https://github.com/abhineetraj1/telegram-bot-python/blob/main/de.png?raw=true">
 <br>
 
 #### Note:-
