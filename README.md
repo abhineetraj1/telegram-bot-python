@@ -48,7 +48,7 @@ ServeBot.commands("-704414602","/about","This bot is made in Python3.8 by Abhine
 ServeBot.run()
 ```
 *	Image
-<img src="de.png" width="80%" style="border-width: 6px;border: solid;">
+<img src="de.png">
 <br>
 
 #### Note:-
