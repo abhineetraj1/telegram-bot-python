@@ -48,7 +48,7 @@ ServeBot.commands("-704414602","/about","This bot is made in Python3.8 by Abhine
 ServeBot.run()
 ```
 *	Image
-<img src="de.png">
+![alt text](https://github.com/abhineetraj1/telegram-bot-python/blob/main/image.jpg?raw=true)
 <br>
 
 #### Note:-
