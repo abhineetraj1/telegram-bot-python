@@ -44,8 +44,8 @@ ServeBot.run()
 ```
 from telegram_bot import*
 Bot.set("5681058372:AAE6VWdgxWLQqKHvmY6ceJw0lEy20B-Vjjg")
-ServeBot.commands("-704414602","/start","Hii, I am testbot")
-ServeBot.commands("-704414602","/about","This bot is made in Python3.8 by Abhineet Raj - @abhineetraj1")
+ServeBot.command("-704414602","/start","Hii, I am testbot")
+ServeBot.command("-704414602","/about","This bot is made in Python3.8 by Abhineet Raj - @abhineetraj1")
 ServeBot.run()
 ```
 
