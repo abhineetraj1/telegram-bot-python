@@ -1,6 +1,8 @@
 import requests
 from time import sleep
 set_token, line_cmd, response, chat_sec, history = [],[],[],[],[0]
+
+#Creating Bot to set API keys , send and recieve message from group
 class Bot:
 	def set(api_key):
 		try:
@@ -25,6 +27,8 @@ class Bot:
 			return a["result"][len(a["result"])-1]["message"]["text"]
 		else:
 			return "Chat ID should be string"
+
+#Creating class to steadily run bot in telegram group
 class ServeBot:
 	def command(chat_ID, res, text):
 		if (False in [isinstance(chat_ID,str), isinstance(res, str), isinstance(text, str), ("/" in res)]):
